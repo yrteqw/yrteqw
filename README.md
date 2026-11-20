@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+    <img width=300 src="./assets/main.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**yrteqw/yrteqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![record rotate](https://record-rotate.arkk200.workers.dev/?width=900&title=1&albums=Travis%20Scott:Rodeo,Kanye%20West:Graduation)
 
-Here are some ideas to get you started:
+## 👻 Немного обо мне...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я - **Software Engineer** с особым уклоном в молодежное творчество.В жизни руководствуюсь саморазвитием (* ^ ω ^) 
+
+В настоящее время занимаюсь разработкой open-source проектов и периодически выполняю заказы на фрилансе. Специализируюсь на создании сайтов, приложений, ботов, нейросетей.
+
+На данный момент все еще учусь для высокопроизводительных приложений, а так-же машинное обучение и нейросети.
+
+
+<h1 align="center">Hi, I'm yrteqw (≧◡≦)👋</h1>
+
+<img src="images/cute.svg" alt="Cute" width="100%">
